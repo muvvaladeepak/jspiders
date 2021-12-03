@@ -1,0 +1,32 @@
+.fir{
+    background-color: aquamarine;
+    height: 800px;
+    width: 200px;
+}
+.sec{
+
+    overflow: scroll;
+    background-color: antiquewhite;
+    margin-left: 200px;
+    margin-top: -800px;
+    height: 800px;
+    width: 1000px;
+}
+img {
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 10px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+  }
+  table, th, td {
+    border: 1px solid black;
+  }
+  input{
+      width: 100px;
+  } 
+  .some{
+      width: 300px;
+      text-align: right;
+  }
